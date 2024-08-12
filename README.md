@@ -1,7 +1,8 @@
+[![MasterHead](https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif)](https://www.linkedin.com/in/aman-kumar-srivastav-aa438b28b/)
 <img align="right" alt="Coding" width="400" src=https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif>
 
-<h1 align="center">Hi 👋, I'm Aman Kumar Srivastav</h1>
-<h3 align="center">A passionate Software developer from India</h3>
+<h1 align="left">Hi 👋, I'm Aman Kumar Srivastav</h1>
+<h3 align="left">A passionate Software developer from India</h3>
 
 - 📫 How to reach me **amankumarsrivastav124@gmail.com**
 
